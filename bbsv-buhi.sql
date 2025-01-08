@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `bbsv-buhi`
+-- Database: `qosa-iriga`
 --
 
 -- --------------------------------------------------------
@@ -104,7 +104,7 @@ CREATE TABLE `competitions` (
 --
 
 INSERT INTO `competitions` (`id`, `slug`, `title`, `created_at`, `updated_at`) VALUES
-(1, 'bbsv-buhi-2023', 'Binibining San Vicente 2023', '2023-04-06 13:24:04', '2023-04-06 13:24:04');
+(1, 'qosa-iriga-2023', 'Queen of San Antonio 2023', '2023-04-06 13:24:04', '2023-04-06 13:24:04');
 
 -- --------------------------------------------------------
 
@@ -467,11 +467,11 @@ INSERT INTO `titles` (`id`, `event_id`, `rank`, `title`, `created_at`, `updated_
 (2, 2, 1, 'Best in Swimwear', '2023-04-07 05:09:49', '2023-04-07 05:09:49'),
 (3, 3, 1, 'Best in Advocacy', '2023-04-07 05:10:14', '2023-04-07 05:10:14'),
 (4, 4, 1, 'Best in Evening Gown', '2023-04-07 05:10:42', '2023-04-07 05:10:42'),
-(5, 5, 1, 'Binibining San Vicente 2023', '2023-04-07 05:11:28', '2023-04-07 08:03:28'),
-(6, 5, 2, 'Binibining San Vicente Tourismo 2023', '2023-04-07 05:11:47', '2023-04-07 08:03:28'),
-(7, 5, 3, 'Binibining San Vicente Charity 2023', '2023-04-07 05:12:12', '2023-04-09 17:19:51'),
-(8, 5, 4, 'Binibining San Vicente 1st Runner Up', '2023-04-07 05:12:47', '2023-04-07 08:03:28'),
-(9, 5, 5, 'Binibining San Vicente 2nd Runner Up', '2023-04-07 05:13:01', '2023-04-07 08:03:28');
+(5, 5, 1, 'Queen of San Antonio 2023', '2023-04-07 05:11:28', '2023-04-07 08:03:28'),
+(6, 5, 2, 'Queen of San Antonio Tourismo 2023', '2023-04-07 05:11:47', '2023-04-07 08:03:28'),
+(7, 5, 3, 'Queen of San Antonio Charity 2023', '2023-04-07 05:12:12', '2023-04-09 17:19:51'),
+(8, 5, 4, 'Queen of San Antonio 1st Runner Up', '2023-04-07 05:12:47', '2023-04-07 08:03:28'),
+(9, 5, 5, 'Queen of San Antonio 2nd Runner Up', '2023-04-07 05:13:01', '2023-04-07 08:03:28');
 
 --
 -- Indexes for dumped tables
