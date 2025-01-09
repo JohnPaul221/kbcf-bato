@@ -12,19 +12,19 @@ require_once '../../models/Judge.php';
 const EVENTS = [
     [
         'slug'    => 'carnival-inspired-attire',
-        'percent' => 10
+        'percent' => 12.5
     ],
     [
         'slug'    => 'production-performance',
-        'percent' => 10
+        'percent' => 12.5
     ],
     [
         'slug'    => 'swimwear',
-        'percent' => 10
+        'percent' => 12.5
     ],
     [
         'slug'    => 'evening-gown',
-        'percent' => 10
+        'percent' => 12.5
     ],
     [
         'slug'    => 'preliminary-interview',
