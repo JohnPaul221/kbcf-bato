@@ -20,7 +20,7 @@ app/_env.php
 app/config/database.php
 app/crud/uploads/*
 !app/crud/uploads/01-alulu-himor.jpg
-!app/crud/uploads/02-mia-angleaa-rañosa.jpg
+!app/crud/uploads/02-mia-angela-rañosa.jpg
 !app/crud/uploads/03-shan-losabio.jpg
 !app/crud/uploads/04-jade-abiog.jpg
 !app/crud/uploads/05-bryan-nava.jpg
@@ -29,7 +29,7 @@ app/crud/uploads/*
 !app/crud/uploads/08-neigel-corporal.jpg
 !app/crud/uploads/09-jewel-olivera.jpg
 !app/crud/uploads/10-queen-hugo.jpg
-!app/crud/uploads/-ramona.jpg
+!app/crud/uploads/ramona.jpg
 !app/crud/uploads/no-avatar.jpg
 !app/crud/dist
 /cypress/videos/
